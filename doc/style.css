@@ -1,0 +1,48 @@
+body {
+    background-color: #072387;
+}
+
+h1 {
+    text-align: center;
+    font-family: Papyrus;
+    font-size: 50px;
+    color: #E9967A;
+    background-color: #F0FFF0;
+}
+
+table {
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 500px;
+    height: 200px;
+    overflow: scroll;
+}
+
+th {
+    font-family: Arabica;
+    font-size: 30px;
+    color: #FFB6C1;
+    padding: 10px 5px;
+    border: solid 2px #FF7F50
+}
+
+tr, td {
+    font-family: Arabica;
+    font-size: 20px;
+    color: #FFFACD;
+    padding: 10px 5px;
+    border: solid 2px #FF7F50
+}
+
+a {
+    font-family: Arabica;
+    font-size: 20px;
+    color: #EE82EE;
+}
+
+.name {
+    font-family: Arabica;
+    font-size: 20px;
+    color: #7FFFD4;
+}
