@@ -2,7 +2,7 @@
 <!--Group Members-->
 ## Group Members
 
-|<img src="img/mem1.jpg" width="160px" height="130px">|<img src="img/mem2.jpg" width="130px" height="130px">|<img src="img/" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|
+|<img src="img/mem1.jpg" width="150px" height="120px">|<img src="img/mem2.jpg" width="130px" height="130px">|<img src="img/" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|
 |:---:|:---:|:---:|:---:|
 |[ddessertt](https://github.com/ddessertt)|[johntnw](https://github.com/johntnw)|[gearprn](https://github.com/gearprn)|[Vacharavat](https://github.com/Vacharavat)|
   |Natthaphat<br>Kongthong|Thanawat<br>Wongsud|Purinut<br>Uomrod|Vacharavat<br>Kesbuntherng|
