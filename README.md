@@ -43,7 +43,7 @@
 
 |<img src="img/mem1.jpg" width="150px" height="120px">|<img src="img/mem2.jpg" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|
 |:---:|:---:|:---:|:---:|
-|[ddessertt](<a href"https://github.com/ddessertt" target=“_blank”></a>)|[johntnw](https://github.com/johntnw)|[gearprn](https://github.com/gearprn)|[Vacharavat](https://github.com/Vacharavat)|
+|<a href"https://github.com/ddessertt" target=“_blank”>ddessertt</a>|[johntnw](https://github.com/johntnw)|[gearprn](https://github.com/gearprn)|[Vacharavat](https://github.com/Vacharavat)|
   |Natthaphat Kongthong|Thanawat Wongsud|Purinut Uomrod|Vacharavat Kesbuntherng|
 |61070051|61070077|61070172|61070192|
 
