@@ -2,7 +2,7 @@
 <!--Group Members-->
 ## Group Members
 
-|<img src="img/mem1.jpg" width="100px" height="120px">|<img src="img/mem2.jpg" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|
+|<img src="img/mem1.jpg" width="150px" height="120px">|<img src="img/mem2.jpg" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|
 |:---:|:---:|:---:|:---:|
 |[ddessertt](https://github.com/ddessertt)|[johntnw](https://github.com/johntnw)|[gearprn](https://github.com/gearprn)|[Vacharavat](https://github.com/Vacharavat)|
   |Natthaphat<br>Kongthong|Thanawat<br>Wongsud|Purinut<br>Uomrod|Vacharavat<br>Kesbuntherng|
@@ -13,8 +13,8 @@
 <table>
 <thead>
 <tr>
-<th align="center"><img src="img/advisor1.jpg" alt=""  width="250px" height="250px"></a></th>
-<th align="center"><img src="img/advisor2.jpg" alt="" style="max-width:50%;"></a></th>
+<th align="center"><img src="img/advisor1.jpg" alt="" width="250px" height="250px"></a></th>
+<th align="center"><img src="img/advisor2.jpg" alt="" width="250px" height="250px"></a></th>
 </tr>
 </thead>
 <tbody>
